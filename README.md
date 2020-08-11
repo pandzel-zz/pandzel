@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi, I am Piotr "Peter" Andzel
+#### Software Engineer / Full Stack Developer at [Esri] Professional Services
+
+
+- 🔭 I’m currently working on various projects at [Esri]
+- 🌱 I’m currently learning [PyTorch], [TensorFlow], [Python]
+- 💬 Ask me about [Java], [JavaScript], [Geoportal Server] or [Harvester], [Esri JS API]
+
+
+👔 [linkedin][Linkedin] **|**
+📷 [My Personal Photography Page][My Personal Photography Page]
 
 <!--
-**pandzel/pandzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on [Machine Learning]
 -->
+
+[Esri]: https://www.esri.com
+[Linkedin]: https://www.linkedin.com/in/piotrandzel/
+[My Personal Photography Page]: https://piotrandzel.com/
+[PyTorch]: https://pytorch.org/
+[Python]: https://www.python.org/
+[TensorFlow]: https://www.tensorflow.org/
+[Machine Learning]: https://en.wikipedia.org/wiki/Machine_learning
+[Java]: https://www.oracle.com/java/technologies/
+[JavaScript]: https://www.javascript.com/
+[Geoportal Server]: https://github.com/Esri/geoportal-server-catalog
+[Harvester]: https://github.com/Esri/geoportal-server-harvester
+[Esri JS API]: https://developers.arcgis.com/javascript/
