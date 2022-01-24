@@ -1,5 +1,5 @@
 ### Hi, I am Piotr "Peter" Andzel
-#### Software Engineer / Full Stack Developer at [Esri] Professional Services
+#### Software Engineer / Full Stack Developer at [Esri] Core Development
 
 
 - 🔭 I’m currently working on various projects at [Esri]
