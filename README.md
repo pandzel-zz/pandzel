@@ -2,8 +2,8 @@
 #### Software Engineer / Full Stack Developer at [Esri] Core Development
 
 
-- 🔭 I’m currently working on ArcGIS Online at [Esri]
-- 🌱 I’m currently learning [Rust], [PyTorch], [TensorFlow], [Python]
+- 🔨 I’m currently working on ArcGIS Online at [Esri]
+- 📚 I’m currently learning [Rust], [PyTorch], [TensorFlow], [Python]
 - 💬 Ask me about [Java], [JavaScript], [TypeScript], [Esri JS API]
 
 
