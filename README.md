@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on ArcGIS Online at [Esri]
-- 🌱 I’m currently learning [PyTorch], [TensorFlow], [Python]
-- 💬 Ask me about [Java], [JavaScript], [Esri JS API]
+- 🌱 I’m currently learning [Rust], [PyTorch], [TensorFlow], [Python]
+- 💬 Ask me about [Java], [JavaScript], [TypeScript], [Esri JS API]
 
 
 👔 [linkedin][Linkedin] **|**
@@ -24,3 +24,5 @@
 [Java]: https://www.oracle.com/java/technologies/
 [JavaScript]: https://www.javascript.com/
 [Esri JS API]: https://developers.arcgis.com/javascript/
+[TypeScript]: https://www.typescriptlang.org/
+[Rust]: https://www.rust-lang.org/
